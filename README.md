@@ -4,6 +4,6 @@ f
 f
 g
 g
-g
+gf
 f
 f
