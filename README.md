@@ -6,7 +6,7 @@ gr
 ggggff
 gr
 ffff
-f
+fg
 f
 g
 g
